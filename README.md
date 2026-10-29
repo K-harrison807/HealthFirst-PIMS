@@ -14,7 +14,7 @@ Check out more screenshots in the ScreenShots folder to see all the validations.
 ![HealthFirst Login Screen](Documents/NetBeansProjects/javaGUIApplication/ScreenShots/update1.png)
 ![HealthFirst Login Screen](Documents/NetBeansProjects/javaGUIApplication/ScreenShots/afterDel.png)
 ![HealthFirst Login Screen](Documents/NetBeansProjects/javaGUIApplication/ScreenShots/addMedPic1.png)
-![HealthFirst Login Screen](Documents/NetBeansProjects/javaGUIApplication/ScreenShots/BILLING2.png)
+![HealthFirst Login Screen](Documents/NetBeansProjects/javaGUIApplication/ScreenShots/Billing2.png)
 
 
 
