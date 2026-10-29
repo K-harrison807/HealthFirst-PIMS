@@ -8,6 +8,15 @@ The project was developed as part of my Information Technology studies to practi
 Check out more screenshots in the ScreenShots folder to see all the validations.
 
 ![HealthFirst Login Screen](Documents/NetBeansProjects/javaGUIApplication/ScreenShots/loginScreen.png)
+![HealthFirst Login Screen](Documents/NetBeansProjects/javaGUIApplication/ScreenShots/POS.png)
+![HealthFirst Login Screen](Documents/NetBeansProjects/javaGUIApplication/ScreenShots/adminDash.png)
+![HealthFirst Login Screen](Documents/NetBeansProjects/javaGUIApplication/ScreenShots/delMed.png)
+![HealthFirst Login Screen](Documents/NetBeansProjects/javaGUIApplication/ScreenShots/update1.png)
+![HealthFirst Login Screen](Documents/NetBeansProjects/javaGUIApplication/ScreenShots/readMed.png)
+
+
+
+
 
 
 
