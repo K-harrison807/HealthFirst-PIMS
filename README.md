@@ -2,7 +2,8 @@
 HealthFirst PIMS is a Java-based Pharmacy Inventory Management System developed to help manage pharmacy operations. The system allows administrators to manage medicines, suppliers, and cashier accounts, while cashiers can assist with sales and checkout operations.
 
 The project was developed as part of my Information Technology studies to practise Java programming, database management, and graphical user interface development.
-#Few screenshots of login, update, delete, checkout, billing. See more in the screenshot folder to see all the validations
+
+Check out the screenshots in the screenshot folder to see all the validations
 
 
 
