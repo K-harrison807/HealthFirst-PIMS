@@ -48,6 +48,3 @@ Check out more screenshots in the ScreenShots folder to see all the validations.
 |------|----------|----------|
 | Admin | admin | admin123 |
 | Cashier | cashier | cash123 |
-
-## Screenshots
-(add screenshots here)
